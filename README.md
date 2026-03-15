@@ -1,1 +1,2 @@
 # HITIRC2026-aelos
+首先在opencv文件夹下完成了处理单张图片识别红色小球的任务，其次是aelos是一个功能包，实现了image_pub.py和image_sub.py，完成了ros消息的发布和接收，在yolo中使用提供的门把手数据集训练了yolov8模型，aelos.mp4是一个ros实现image_pub.py和image_sub.py的演示视频
